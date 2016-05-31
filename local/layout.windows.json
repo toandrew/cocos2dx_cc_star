@@ -45,7 +45,7 @@
                 "width": 677
               },
               {
-                "active": 1,
+                "active": 0,
                 "height": 300,
                 "panels": [
                   "console.panel",
@@ -74,6 +74,34 @@
         "row": true,
         "type": "dock"
       }
+    },
+    "editor-window-1464708428414": {
+      "x": 742,
+      "y": 23,
+      "width": 500,
+      "height": 722,
+      "layout": {
+        "docks": [
+          {
+            "active": 0,
+            "height": 700,
+            "panels": [
+              "builder.panel"
+            ],
+            "type": "panel",
+            "width": 500
+          }
+        ],
+        "no-collapse": true,
+        "row": false,
+        "type": "dock"
+      }
+    },
+    "worker": {
+      "x": 520,
+      "y": 278,
+      "width": 400,
+      "height": 300
     }
   }
 }
